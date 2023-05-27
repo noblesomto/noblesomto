@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @noblesomto
-- 👀 I’m interested in Python, Laravel and Codeigniter
+- 👋 Hi, I’m a fullstack Developer
+- 👀 I’m interested in Vue,Django, Python, Laravel and Codeigniter
 - 🌱 I’m currently learning Learning Python for data science
-- 💞️ I’m looking to collaborate on on any python django project
+- 💞️ I’m looking to collaborate on on any Frontend and Backend website project
 - 📫 How to reach me noblesomoto1@gmail.com or +2347031525786
 
 <!---
